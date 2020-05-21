@@ -3,6 +3,9 @@ This patch allows [dwm](https://dwm.suckless.org/) users to hide and restore
 windows via keyboard shortcuts.
 ![demo](./demo.gif)
 
+### Requirements
+This patch requires the [awesomebar patch](http://dwm.suckless.org/patches/awesomebar/).
+
 ### Installation
 To apply this patch, first download the `.diff` file to the `dwm` folder, 
 and then do:
