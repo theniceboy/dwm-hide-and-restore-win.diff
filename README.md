@@ -1,4 +1,7 @@
 ### dwm-hide-and-restore-win.diff
+
+[中文版](./README_cn.md)
+
 This patch allows [dwm](https://dwm.suckless.org/) users to hide and restore 
 windows via keyboard shortcuts.
 ![demo](./demo.gif)
